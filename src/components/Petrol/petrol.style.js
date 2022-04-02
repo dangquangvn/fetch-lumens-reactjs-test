@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const Petrol = styled.section`
-  /* height: 100%; */
   margin: 3rem 0;
 `;
 

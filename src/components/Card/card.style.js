@@ -20,8 +20,6 @@ export const CardContent = styled.div`
 `;
 export const CardTitle = styled.h5`
   font-weight: 600;
-  /* #696974 */
-  /* color: var(--blue-dark-color); */
   color: ${({ titleColor }) =>
     titleColor ? titleColor : "var(--blue-dark-color)"};
   font-size: 16px;

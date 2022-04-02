@@ -1,8 +1,6 @@
 import styled from "styled-components";
 
 export const AvailableCoin = styled.section`
-  /* margin: 0 auto -9rem; */
-  /* display: inline-block; */
   background-color: white;
   width: 343px;
   border-radius: 8px;
